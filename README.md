@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bruno
 - 👀 I’m interested in Powershell.
-- 🌱 I’m currently learning Amiga dev
+- 🌱 I’m currently learning 𝔸miga dev
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
