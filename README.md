@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Bruno
-- 👀 I’m interested in Powershell.
+- 👀 I’m interested in Powershell, C.
 - 🌱 I’m currently learning 𝔸miga dev
-<!-- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
+- 📫 You can reach me on Stack Overflow, AmigaFrance
+<!-- - 💞️ I’m looking to collaborate on ...--->
 
 <!---
 bruno-frederic/bruno-frederic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
